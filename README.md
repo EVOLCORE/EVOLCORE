@@ -29,13 +29,4 @@
     <img src="https://img.shields.io/badge/IDA%20Pro-1F2937?style=flat-square&logo=target&logoColor=white" alt="IDA Pro" />
   </p>
 
-  <br/>
-
-  <h3>📊 GitHub Activity</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=EVOLCORE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EVOLCORE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html" height="150" alt="Top Languages" />
-  </p>
-
 </div>
